@@ -5,9 +5,9 @@ Lethal Company god mode and cheat pack plug-in. Works in any lobbies regardless 
 What this plugin can do (so far):
 - Lets you modify run and walk speeds
 - Lets you modify jump height
-- Give you invincibility
-- Make you ignore fall damage
-- Give you infinite sprint
-- Give you moonjump
-- Give you noclip
+- Gives you invincibility
+- Makes you ignore fall damage
+- Gives you infinite sprint
+- Gives you moonjump
+- Gives you noclip
 - Lets you float in the air
