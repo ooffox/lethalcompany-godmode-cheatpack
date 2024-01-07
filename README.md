@@ -10,4 +10,4 @@ What this plugin can do (so far):
 - Gives you infinite sprint
 - Gives you moonjump
 - Gives you noclip
-- Lets you float in the air
+- And more (soon)
