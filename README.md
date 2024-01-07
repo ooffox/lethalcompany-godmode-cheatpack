@@ -2,7 +2,7 @@
 
 Lethal Company god mode and cheat pack plug-in. Works in any lobbies regardless of whether or not theyre modded.
 
-<b>You can enable/disable any of these settings by pressing F1 and clicking on Normal settings, then the mod</b>.
+<b>You can enable/disable any of the settings by pressing F1 and clicking on Normal settings, then the mod</b>.
 
 
 <h3>What this plugin can do (so far):</h3>
